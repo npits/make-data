@@ -1,0 +1,18 @@
+{
+  "name": "make-data",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "nikoleta pitsidianaki",
+  "license": "ISC",
+  "dependencies": {
+    "faker": "^6.6.6",
+    "fs": "^0.0.1-security"
+  },
+  "devDependencies": {
+    "@faker-js/faker": "^9.0.1"
+  }
+}
